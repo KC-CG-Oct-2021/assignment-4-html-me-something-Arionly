@@ -12,5 +12,7 @@
     "jasmine": "^3.6.3",
     "jsdom": "^16.4.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "prompt-sync": "^4.1.6"
+  }
 }
